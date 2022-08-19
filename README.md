@@ -1,1 +1,1 @@
-# Incident-Response-with-Splunk-Boss-Of-The-SOC-v1-Cyberdefender-
+# Incident Response with Splunk [Boss of The SOC v1Cyberdefender]
