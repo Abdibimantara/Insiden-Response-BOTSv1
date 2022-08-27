@@ -56,5 +56,11 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187022697-a25cf1e4-214d-4125-a485-944313c8cdff.png)
 
+<p> 8. Based on the data gathered from this attack and common open-source intelligence sources for domain names, what is the email address most likely associated with the Po1s0n1vy APT group?</p>
+<p> Answer : Open Source Intelligence (OSINT) adalah metode yang digunakan untuk mencari informasi sebanyak mungkin mengenai suatu target. disini kita akan berushaka mencari alamat email yang terhubung berdasarkan ip 23.22.63.114. Sebelumnya kami tidak menemukan email yang tertaut pada ip tersebut namun terlihat bawah pada ip tersebut tertaut pada dns www.po1s0n1vy.com, dan kami menemukan data email tersebut </p>
+
+![image](https://user-images.githubusercontent.com/43168046/187023188-e4ea63b0-721c-4f8b-b7bc-b4e0345c4d93.png)
+
+
 
 
