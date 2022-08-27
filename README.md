@@ -62,7 +62,13 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 ![image](https://user-images.githubusercontent.com/43168046/187023188-e4ea63b0-721c-4f8b-b7bc-b4e0345c4d93.png)
 
 <p> 9. What IP address is likely attempting a brute force password attack against imreallynotbatman.com? </p>
-<p> Answer : Jawaban untuk pertanyaan ini sudah didapatkan pada pertanyaan ke tujuh. yaiut 23.22.61.114
+<p> Answer : Jawaban untuk pertanyaan ini sudah didapatkan pada pertanyaan ke tujuh. yaitu 23.22.61.114 </p>
+
+<p> 10. What is the name of the executable uploaded by Po1s0n1vy? Please include the file extension. (For example, "notepad.exe" or "favicon.ico") </p>
+</> Answer : File upload identik dengan metode "POST", dan kami menggunakan hal tersebut serta di kombinasikan dengan ip 23.22.63.114 untuk mencari file executable tersebut seperti pada gambar. </p>
+
+![image](https://user-images.githubusercontent.com/43168046/187027770-02cd3f19-7be9-49c3-bc9d-ac06bd1673fb.png)
+
  
  
 
