@@ -46,8 +46,15 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187022251-90dee4d1-d5b1-479e-b7d5-60e7750f4c0a.png)
 
+<p> 6. This attack used dynamic DNS to resolve to the malicious IP. What is the fully qualified domain name (FQDN) associated with this attack?.</p>
+<p> Answer : Untuk melancarakan serangan Defaced web, biasanya attacker akan menggunakan dns lainnya. sehingga user akan secara otomatis di arahkan ke url tersebut , dimana url tersebut terlihat pada gambar dibawah.</p>
 
+![image](https://user-images.githubusercontent.com/43168046/187022251-90dee4d1-d5b1-479e-b7d5-60e7750f4c0a.png)
 
+<p> 7. What IP address has Po1s0n1vy tied to domains that are pre-staged to attack Wayne Enterprises? </p>
+<p> Answer : Pertanyaan ini masih bersangkutan dengan pertanyaan sebelumnya. domain yang digunakan oleh grup Po1s0n1vy dalam melancarkan serangan deface berada pada ip 23.22.63.114.</p>
+
+![image](https://user-images.githubusercontent.com/43168046/187022697-a25cf1e4-214d-4125-a485-944313c8cdff.png)
 
 
 
