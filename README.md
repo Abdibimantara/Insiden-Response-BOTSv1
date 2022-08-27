@@ -41,6 +41,12 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187019306-4f72e1bd-dae8-438e-a8da-479653598acd.png)
 
+<p> 5. What is the name of the file that defaced the imreallynotbatman.com website? Please submit only the name of the file with the extension (For example, "notepad.exe" or "favicon.ico").</p>
+<p> Answer : Sebelumnya pada kasus nomer 2, kami mendapati tiga ip yaitu 192.168.250.70 yang mana kami yakini ini adalah ip korban, alasannya adalah ip lokal, ip kedua adalah 40.80.148.42, sebagai ip grup Po1s0n1vy yang melakukan scanning, serta ip 23.22.63.114. Kami telah berspekulasi pada ip kedua namun tidak menemukan hal yang kami inginkan. namun pada ip ketiga kami menemukan url yang mendirect ke hal lainnya (defaced) .</p>
+
+![image](https://user-images.githubusercontent.com/43168046/187022251-90dee4d1-d5b1-479e-b7d5-60e7750f4c0a.png)
+
+
 
 
 
