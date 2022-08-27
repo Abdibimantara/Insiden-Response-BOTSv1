@@ -69,6 +69,13 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187027770-02cd3f19-7be9-49c3-bc9d-ac06bd1673fb.png)
 
+<p> 11. What is the MD5 hash of the executable uploaded? </p>
+<p> Answer : Setelah diketahui file executable tersebut, selanjutnya adalah mengecek hash dari file tersebut. Tampak pada gambar, awalnya kami mendapati hasil yang terlalu banyak, sehingga kami memanfaatkan query "commandline" untuk menyederhanakannya </p>
+
+![image](https://user-images.githubusercontent.com/43168046/187038048-d515199d-bc68-4300-b40b-4053538e11b7.png)
+
+
+
  
  
 
