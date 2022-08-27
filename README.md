@@ -22,10 +22,13 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 # Question
 <p> 1. This is a simple question to get you familiar with submitting answers. What is the name of the company that makes the software that you are using for this competition? Just a six-letter word with no punctuation.</p>
-<p style="text-align: justify;"> Answer : Software yang digunakan dalam kasus kali ini adalah splunk. dimana Software tersebut termasuk dalam kategori SIEM (Security information and event management) yang memiliki fungsi yaitu memberikan laporan dan peringatan. Fitur laporan SIEM akan mengumpulkan dan menampilkan insiden terkait keamanan, seperti aktivitas berbahaya hingga upaya log-in yang gagal. hal ini dapat membantu tugas dari SOC</p> 
+<p> Answer : Software yang digunakan dalam kasus kali ini adalah splunk. dimana Software tersebut termasuk dalam kategori SIEM (Security information and event management) yang memiliki fungsi yaitu memberikan laporan dan peringatan. Fitur laporan SIEM akan mengumpulkan dan menampilkan insiden terkait keamanan, seperti aktivitas berbahaya hingga upaya log-in yang gagal. hal ini dapat membantu tugas dari SOC</p> 
 
 ![image](https://user-images.githubusercontent.com/43168046/186939421-81e3433c-a7fd-4b7b-8d03-bb666256d90f.png)
 
+<p> 2. What is the likely IP address of someone from the Po1s0n1vy group scanning imreallynotbatman.com for web application vulnerabilities? </p>
+<p> Answer : aktivitas Scanning umumnya dilakukan beberapa kali dalam satuan waktu, sehingga menghasilkan jumlah traffic yang lebih banyak ketimbang yang lain. sehingga disini kami menggunakan query seperti digambar. Terlihat bahwa ip 40.80.148.42 terindikasi memiliki jumlah traffic yang lebih banyak dari pada yang lain yaitu sebanyak 38416</p>
 
-2. adad
+![image](https://user-images.githubusercontent.com/43168046/187012609-2550d23a-bcdb-4c1e-bdcc-704951ddf279.png)
+
 
