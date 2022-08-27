@@ -31,4 +31,9 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187012609-2550d23a-bcdb-4c1e-bdcc-704951ddf279.png)
 
+<p> 3. What company created the web vulnerability scanner used by Po1s0n1vy? Type the company name. (For example, "Microsoft" or "Oracle") </p>
+<p> Answer : Untuk menjawab pertanyaa ini, kami mencari informasi tersebut di masing masing log yang terekam oleh splunk. Dengan menggunakan bantuan dari ip yang telah diketahui sbeelumnya kami mendapatkan infomrasi bahwa, tools scanner yang dipakai pada kasus ini adalah Acunetix web vulnerability scanner dengan company Acunetix. </p>
+![image](https://user-images.githubusercontent.com/43168046/187012796-f4e810d4-7dcd-4ceb-a1db-9616da107505.png)
+
+
 
