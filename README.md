@@ -36,6 +36,12 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187012851-c5456b42-a79e-4349-81d7-5bf4a8560be0.png)
 
+<p> 4. What content management system is imreallynotbatman.com likely using? (Please do not include punctuation such as . , ! ? in your answer. We are looking for alpha characters only.)</p>
+<p> Content Management System atau yang bisas disebut dengan CMS adalah software yang memungkinkan Anda untuk membuat dan mengelola website dengan mudah.Umumnya, sebuah CMS akan memberikan Anda sebuah antarmuka (user interface) di mana Anda bisa mengatur tampilan, fitur dan isi website dengan praktis. Berdasarkan gambar dibawah diketahui bahwa cms yang digunkan pada kasus ini adalah Joomla. </p>
+
+![image](https://user-images.githubusercontent.com/43168046/187019306-4f72e1bd-dae8-438e-a8da-479653598acd.png)
+
+
 
 
 
