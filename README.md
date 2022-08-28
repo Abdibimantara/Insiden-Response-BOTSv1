@@ -94,6 +94,18 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187084423-accab7c5-4af8-4aa8-a471-491cf7d0d80b.png)
 
+<p> 16. One of the passwords in the brute force attack is James Brodsky's favorite Coldplay song. Hint: we are looking for a six-character word on this one. Which is it? </p>
+<p> Answer : Jujur kami tidak mengikuti Coldplay, sehingga kami kurang tau dan kami mencari di internet. berdasarkan referensi https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Coldplay kami mendapatkan beberapa list kata yang teridiri dari 6 character. Kami pun melakukan trial and error pada splunk untuk mendapatkan password tersebut</p>
+
+![image](https://user-images.githubusercontent.com/43168046/187091413-e345ab8c-ceca-4bd3-8c3d-d80f23827a29.png)
+
+<p> 17. What was the correct password for admin access to the content management system running "imreallynotbatman.com"?</p>
+<p> Answer ; Disini kami mencoba mencari tahu apakah ada ip lain selain 22 yang mencoba login. lalu kami menemukan ip 40 yang juga melakukan akses login dengan username admin serta password batman</p>
+
+![image](https://user-images.githubusercontent.com/43168046/187091673-ebfd70ef-3688-4a05-bec9-8946ac4600fe.png)
+
+
+
 
 
 
