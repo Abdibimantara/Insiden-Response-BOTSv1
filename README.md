@@ -74,6 +74,11 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187038048-d515199d-bc68-4300-b40b-4053538e11b7.png)
 
+<p> 12. GCPD reported that common TTP (Tactics, Techniques, Procedures) for the Po1s0n1vy APT group, if initial compromise fails, is to send a spear-phishing email with custom malware attached to their intended target. This malware is usually connected to Po1s0n1vy's initial attack infrastructure. Using research techniques, provide the SHA256 hash of this malware.</p>
+<p> Answer : berdasarakn pencarian sebelumnya, ip 23.22.63.114 merupakan ip penyerang dari grup Po1s0n1vy. berdasarkan virustotals kami menemukan beberapa sampel malware yang terhubung dengan ip tersebut. Terlihat pada gambar, kami menemukan 3 file lalu dimana 3 file tersebut termasuk malicious.</p>
+
+![image](https://user-images.githubusercontent.com/43168046/187054746-7cf84913-75de-4973-8ce2-fb0131bd92f0.png)
+
 
 
  
