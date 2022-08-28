@@ -84,6 +84,10 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187054858-82e811cc-ff65-4240-b2f2-fa4bf242a48a.png)
 
+<p> 14. One of Po1s0n1vy's staged domains has some disjointed "unique" whois information. Concatenate the two codes together and submit them as a single answer. </p>
+<p> Answer : Untuk mencari informasi tersebut, dapat menggunakan tools https://www.whoxy.com/whois-history/demo_result.php . sebelumnya kami mendapati beberapa domain yang terhubung di ip 23.22.63.114, namun hanya satu domain yang memiliki kode unik. </p>
+
+![image](https://user-images.githubusercontent.com/43168046/187055015-86624369-d44c-4d96-8d4e-0a1761101272.png)
 
 
 
