@@ -77,7 +77,13 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 <p> 12. GCPD reported that common TTP (Tactics, Techniques, Procedures) for the Po1s0n1vy APT group, if initial compromise fails, is to send a spear-phishing email with custom malware attached to their intended target. This malware is usually connected to Po1s0n1vy's initial attack infrastructure. Using research techniques, provide the SHA256 hash of this malware.</p>
 <p> Answer : berdasarakn pencarian sebelumnya, ip 23.22.63.114 merupakan ip penyerang dari grup Po1s0n1vy. berdasarkan virustotals kami menemukan beberapa sampel malware yang terhubung dengan ip tersebut. Terlihat pada gambar, kami menemukan 3 file lalu dimana 3 file tersebut termasuk malicious.</p>
 
-![image](https://user-images.githubusercontent.com/43168046/187054746-7cf84913-75de-4973-8ce2-fb0131bd92f0.png)
+![image](https://user-images.githubusercontent.com/43168046/187054771-d39e7c3e-aa25-4974-b6ed-4246129584dd.png)
+
+<p> 13. What is the special hex code associated with the customized malware discussed in question 12? (Hint: It's not in Splunk)  </p>
+<p> Answer : kami kembali mencari informasi melalui virustotals.com . Awalnya kami kembali mengecek pada bagian detail, namun sayang kami tidak mendapat apa apa. kami kembali mencari pada bagian tab comunity dan bingo, kami mendapati itu </p>
+
+![image](https://user-images.githubusercontent.com/43168046/187054858-82e811cc-ff65-4240-b2f2-fa4bf242a48a.png)
+
 
 
 
