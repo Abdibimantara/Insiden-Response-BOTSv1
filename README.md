@@ -89,6 +89,12 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187055015-86624369-d44c-4d96-8d4e-0a1761101272.png)
 
+<p> 15. What was the first brute force password used? </p>
+<p> Answer : Kami menggunakan kombinasi query seperti pada gambar dibawah. query ini filter berdasarkan src ip, form data, serta timestap. Terlihat bahwa upaya bruteforce pertama kali dilakukan pada waktu 2016-08-10T21:45:10.253339Z</p>
+
+![image](https://user-images.githubusercontent.com/43168046/187084423-accab7c5-4af8-4aa8-a471-491cf7d0d80b.png)
+
+
 
 
  
