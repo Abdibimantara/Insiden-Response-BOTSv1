@@ -104,6 +104,12 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187091673-ebfd70ef-3688-4a05-bec9-8946ac4600fe.png)
 
+<p> 18. What was the average password length used in the password brute-forcing attempt? (Round to a closest whole integer. For example "5" not "5.23213") </p>
+<p> Answer : Berdasarkan referensi dari https://docs.splunk.com/Documentation/Splunk/latest/SearchReference/CommonEvalFunctions kita dapat memanfaatkan penggunaan fungsi untuk mendapakan informasi yang diinginkan</p>
+
+![image](https://user-images.githubusercontent.com/43168046/187092459-7059deda-8781-4b01-b873-b27094a06001.png)
+
+
 
 
 
