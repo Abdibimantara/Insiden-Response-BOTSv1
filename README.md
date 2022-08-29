@@ -124,6 +124,10 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187297458-c33922e6-6287-4c9b-a88d-fbb863ae0c14.png)
 
+<p> 22. Amongst the Suricata signatures that detected the Cerber malware, which one alerted the fewest number of times? Submit ONLY the signature ID value as the answer. (No punctuation, just 7 integers.) </p>
+<p> Answer : Menggunakan kata kunci "cerber" dan host="suricata-ids.waynecorpinc.local" kami mendapatkan beberapa data yang cocok. namun data tersebut terlalu banyak sehingga kami memfilernya menggunakn ids signature. Terlihat pada gambar dibawah signature id malware cerber "2816763" hanya ditemukan 1 .</p>
+
+![image](https://user-images.githubusercontent.com/43168046/187303259-1c299834-2394-4d02-8dbd-ef660252fbbc.png)
 
 
 
