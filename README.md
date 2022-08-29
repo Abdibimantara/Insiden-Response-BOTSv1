@@ -114,6 +114,19 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187267435-5989d197-f5bd-4040-b4a2-acf50a953b73.png)
 
+<p> 20 . How many unique passwords were attempted in the brute force attempt? </p>
+<p> Answer : Untuk menjawab pertanyaa ini kami menggunakan fungsi dedup untu menemukan password yang tidak sama serta menjumlahkannya menggunakan fungsi count .</p>
+
+![image](https://user-images.githubusercontent.com/43168046/187283519-6889817c-061b-4c16-bbef-7c9f876c261a.png)
+
+<p> 21. What was the most likely IP address of we8105desk in 24AUG2016 </p>
+<p> Answer : saat kami mengetikkan we8105desk pada pencarian kami menemukan bahwa we8105desk adalah account name, kami pun menambahkan parameter tersebut pada query pencarian kami. dan terlihat beberapa ip yang terkait pada we8105desk </p>
+
+![image](https://user-images.githubusercontent.com/43168046/187297458-c33922e6-6287-4c9b-a88d-fbb863ae0c14.png)
+
+
+
+
 
 
 
