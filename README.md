@@ -109,6 +109,9 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187092459-7059deda-8781-4b01-b873-b27094a06001.png)
 
+<p> 19. How many seconds elapsed between the brute force password scan identified the correct password and the compromised login? Round to 2 decimal places. </p>
+<p> Answer : berdasarkan hasil dari komdinasi query yang kami masukkan, terlihat 2 tarffic yaitu traffic awal dan traffic terkahir mengugunakan password batman. berdasarkan kalkulator waktu, kami mengetahui selisih waktu tersebut adalah 1 menit 32 detik 169 milidetik, dimana itu adalah 92 detik  169 milidetik. dan bila dibulatkan menjadi 92,17 detik  </p>
+![image](https://user-images.githubusercontent.com/43168046/187267435-5989d197-f5bd-4040-b4a2-acf50a953b73.png)
 
 
 
