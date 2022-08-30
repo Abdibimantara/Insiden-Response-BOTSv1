@@ -154,6 +154,21 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187523898-490a0556-5ea7-47d0-95f5-3336e4d6751a.png)
 
+<p> 27. Bob Smith's workstation (we8105desk) was connected to a file server during the ransomware outbreak. What is the IP address of the file server? </p>
+<p> Answer : Kami kembali menggunakn kombinasi query seperti pada kasus nomer 24. dimana kami menemukan sebanyak 152 kali komunikasi terjadi dengan ip 192.168.250.20 </p>
+
+![image](https://user-images.githubusercontent.com/43168046/187524814-3dfb8091-5944-42ce-83d6-85b2e776741a.png)
+
+<p> 28. How many distinct PDFs did the ransomware encrypt on the remote file server? </p>
+<p> Answer : kami menggunakan fungsi dc untuk menjumlahkan total pdf yang kami temukan. nmaun hasil awal kami ternyata salah yaitu 258</p>
+
+![image](https://user-images.githubusercontent.com/43168046/187528773-13d7e87b-0a84-4f9a-8e6d-7d7d364f3173.png)
+
+<p> Sehingga kami berinisiatif untuk mengecek dari 258 event data tersebut dan kami menemukan sebanyak 257 pdf mengarah ke ip 192.168.250.20</p>
+
+![image](https://user-images.githubusercontent.com/43168046/187529144-3c66aa60-e01d-43bb-8444-29a28e745619.png)
+
+
 
 
 
