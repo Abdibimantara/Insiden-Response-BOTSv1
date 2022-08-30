@@ -139,6 +139,21 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187495741-0d35d74a-1877-403d-80bf-3dec62fb9fbe.png)
 
+<p> 25. During the initial Cerber infection a VB script is run. The entire script from this execution, pre-pended by the name of the launching .exe, can be found in a field in Splunk. What is the length in characters of the value of this field? </p>
+<p> Answer : Untuk menemukan bidang ini, kita akan mencari di Sysmon. Sysmon dirancang untuk mencatat aktivitas yang biasanya terkait dengan aktivitas ancaman. Kami telah mempersempit pencarian kami untuk menemukan secara spesifik dari apa yang kami cari. Terdapat event yang dimulai dengan cmd.exe dan panjang bidang ini adalah 4490</p>
+
+![image](https://user-images.githubusercontent.com/43168046/187522573-709e32f6-426d-4c30-9822-89b47f84f371.png)
+
+
+<p> 26. What is the name of the USB key inserted by Bob Smith? </p>
+<p> Answer : Kami telah mencari dengan berbagai query, namun belum mendapatkan hasil yang di inginkan. Namun setelah kami membaca referensi di google.</p>
+
+![image](https://user-images.githubusercontent.com/43168046/187523515-d526556a-6132-4d01-ae13-532a7b44edf9.png)
+
+<p> Kami akhirnya menemukan nama dari USB key dari Bob Smith tersebut</p>
+
+![image](https://user-images.githubusercontent.com/43168046/187523898-490a0556-5ea7-47d0-95f5-3336e4d6751a.png)
+
 
 
 
