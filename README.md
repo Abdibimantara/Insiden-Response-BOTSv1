@@ -162,6 +162,10 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 <p> 28. How many distinct PDFs did the ransomware encrypt on the remote file server? </p>
 <p> Answer : kami menggunakan fungsi dc untuk menjumlahkan total pdf yang kami temukan. nmaun hasil awal kami ternyata salah yaitu 258</p>
 
+
+Arigatoooooo
+
+
 ![image](https://user-images.githubusercontent.com/43168046/187528773-13d7e87b-0a84-4f9a-8e6d-7d7d364f3173.png)
 
 <p> Sehingga kami berinisiatif untuk mengecek dari 258 event data tersebut dan kami menemukan sebanyak 257 pdf mengarah ke ip 192.168.250.20</p>
