@@ -168,6 +168,26 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187529144-3c66aa60-e01d-43bb-8444-29a28e745619.png)
 
+<p> 29. The VBScript found in question 25 launches 121214.tmp. What is the ParentProcessId of this initial launch?</p>
+<p> Answer : Untuk menjawab pertanyaan ini, kita kembali menggunakan query pada kasus nomer 25. disini kami melusurui lebih lanjut mengenai event tersebut dan bingo kami mendapatkan yang kami inginkan</p>
+
+![image](https://user-images.githubusercontent.com/43168046/187537612-a8c2944d-6128-4a72-a488-a828e1701e52.png)
+
+
+<p> 30. The Cerber ransomware encrypts files located in Bob Smith's Windows profile. How many .txt files does it encrypt?</p>
+<p> Answer : Kita harus melihat semua kejadian di Sysmon yang berisi bob.smith , .txt dan di mana TargetFilename adalah direktori komputer bob.smiths.</p>
+
+![image](https://user-images.githubusercontent.com/43168046/187539112-d6177ebe-547e-48c5-8513-2e7484925b46.png)
+
+<p> 31. The malware downloads a file that contains the Cerber ransomware crypto code. What is the name of that file?</p>
+<p><Answer : Untuk menjawab pertanyaan ini, kita kembali menggunakn query seperti pada kasus nomer 24. disini kami mencoba menelusuri lebih dalam evet yang mernagah ke domain solidaritedeproximite.org. disini terlihat bahwa file tersebut adalah /mhtr.jpg .</p>
+ 
+![image](https://user-images.githubusercontent.com/43168046/187547181-b3a406c9-d27d-437b-90c6-7b0f9e8111ea.png)
+
+ <p> 32. Now that you know the name of the ransomware's encryptor file, what obfuscation technique does it likely use?</p>
+ <p> Answer : Terlihat bahwa file tersebut beformat .jpg. namun file tersebut malicous, dikarenakan telah di modifikasi oleh attacker dengan memasukan suatu scrip berbahaya. proses tersbeut dikenal dengan nama Steganography</p>
+
+
 
 
 
