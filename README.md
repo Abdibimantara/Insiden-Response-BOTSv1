@@ -129,6 +129,17 @@ In the second scenario, one of your users is greeted by this image on a Windows 
 
 ![image](https://user-images.githubusercontent.com/43168046/187303259-1c299834-2394-4d02-8dbd-ef660252fbbc.png)
 
+<p> 23. What fully qualified domain name (FQDN) makes the Cerber ransomware attempt to direct the user to at the end of its encryption phase? </p>
+<p> Answer : Untuk menjawab pertanyan ini, kami menggunakan query not, untuk menghilangkan domain yang kami rasa normal. selain itu kami juga menggunakan query souce dan tentu saja kami memilih dns. </p>
+
+![image](https://user-images.githubusercontent.com/43168046/187478399-a399fa40-d016-489c-a9bc-13e15879e7f9.png)
+
+<p> 24. What was the first suspicious domain visited by we8105desk in 24AUG2016? </p>
+<p> Answer : pada pertanyaan sebelumnya kami mengentaui bahwa host we8105desk menggunakan ip 192.168.250.100, kami menggunakan ip tersebut untuk mencari destinatin yang dituju berdasarkan waktu. namun hasil yang didapatkan sangatlah banyak sehingga kami juga menerapkan fungsi dedup untuk menyingkirkan destination yang kiranya sama (duplicated). Berdasarkan waktu terlihat ada beberapa domain yang kami dapatkan, kami mencoba satu persatu dan mendapatkannya . </p>
+
+![image](https://user-images.githubusercontent.com/43168046/187495741-0d35d74a-1877-403d-80bf-3dec62fb9fbe.png)
+
+
 
 
 
